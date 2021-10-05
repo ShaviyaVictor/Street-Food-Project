@@ -18,3 +18,24 @@
     width: 500px;
     height: 500px;
 }
+.dotted > img:first-child{
+    transform: rotate(0deg) translateY(-30px);
+    margin-left: 30px;
+}
+
+.dotted > img:nth-child(2) {
+    transform: rotate(45deg) translateY(-115px);
+}
+.dotted > img:nth-child(3){
+    transform: rotate(90deg) translateY(-105px);
+}
+
+.dotted > img:nth-child(4){
+    transform: rotate(-45deg) translateY(-60px);
+}
+
+.dotted > img:nth-child(5){
+    transform: rotate(-90deg) translateY(50px);
+    margin-left: 240px;
+    margin-bottom: 30px;
+}
