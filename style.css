@@ -167,3 +167,36 @@ nav ul li a{
 .eatpage2 p{
     font-weight: bolder;
 }
+.menu{
+    background-color: #EAF3E4;
+    padding-top: 20px;
+    width: 70%;
+    margin-left: 15%;
+}
+.menu_section1{
+    display: flex;
+    align-items: center;
+    height: 30vh;
+    padding: 60px;
+}
+.menu_item{
+    background-color: #FFFFFF;
+    margin: 40px;
+    height: 120px;
+    border-bottom-right-radius: 30px;
+    position: relative;
+    width: 260px;
+}
+.menu_item p{
+    text-align: right;
+    padding: 0px 15px;
+}
+.menu_item img{
+    width: 150px;
+    position: absolute;
+    left: -80px;
+}
+.menu h3{
+    text-align: center;
+    margin-top: 10px;
+}
