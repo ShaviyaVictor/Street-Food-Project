@@ -23,3 +23,5 @@ The website comprises of 5 pages that include the:
    
 The page also is scroll-enabled which allow one to scroll to whichever section one wants apart from having the option to use the navigation tab on top of the page.
 
+## Link to the Deployed Page
+[Deployed gh-pages link](https://shaviyavictor.github.io/Redone-food-street-project/)
