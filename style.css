@@ -9,6 +9,9 @@
     background-color: #E5E5E5;
     height: 100vh;
 }
+i{
+    border-color: black;
+}
 .dotted{
     position: relative;
     border: 2px dashed #6CB840 ;
@@ -62,4 +65,17 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
+}
+.title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.title h2{
+    font-weight: bold;
+}
+
+.food_title{
+    float: left;
+    margin-left: 128px;
+    width: 400px;
 }
