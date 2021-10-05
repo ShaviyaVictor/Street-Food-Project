@@ -276,14 +276,14 @@ nav ul li a{
 .contact input:placeholder-shown{
     font-weight: 700;
 }
-.footer_container{
+.footer{
     background-color: #F1FAEC;
     height: 30vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.footer_container .foot4 {
+.footer .foot4 {
     display: flex;
     flex-direction: column;
 }
@@ -297,16 +297,18 @@ nav ul li a{
     width: 70px;
     height: 30px;
 }
-.footer_container .foot3{
+.footer .foot3{
     display: flex;
     flex-direction: column;
     width: 180px;
 }
-.footer_container .foot2{
+.footer .foot2{
     width: 160px;
-    margin-right: 500px;
+    font-weight: bolder;
 }
-.footer_container .foot1{
-    width: 12%;
+.footer .foot1{
+    width: 20%;
+    padding-right: 30px;
     border-right: 2px dashed #81C35A;
+    font-weight: bolder;
 }
