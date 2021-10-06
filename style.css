@@ -167,11 +167,14 @@ nav ul li a{
 .eatpage2 p{
     font-weight: bolder;
 }
+.page2 img{
+    height: 620px;
+}
 .menu{
     background-color: #EAF3E4;
     padding-top: 20px;
-    width: 90%;
-    margin-left: 5%;
+    width: 80%;
+    margin-left: 10%;
 }
 .menu_section1{
     display: flex;
@@ -192,7 +195,7 @@ nav ul li a{
     padding: 0px 10px;
 }
 .menu_item img{
-    width: 150px;
+    width: 200px;
     position: absolute;
     left: -80px;
 }
@@ -227,17 +230,18 @@ nav ul li a{
     position: absolute;
     width: 60%;
     left: 100px;
-    top: 175px;
+    top: 200px;
 }
 .info_text{
     width: 50%;
     float: right;
-    margin-bottom: 700px;
+    margin-bottom: 850px;
+
 }
 .info_text h1{
     color: #6CB840;
     font-weight: bolder;
-    padding-top: 57px;
+    padding-top: 20px;
 }
 .info_text h2{
     text-align: left;
