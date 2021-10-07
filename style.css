@@ -139,7 +139,7 @@ nav ul li a{
     width: 420px;
 }
 .food_title h1{
-    font-size:xx-large;
+    font-size: xxx-large;
     font-weight: bolder;
     margin-bottom: 22px;
     margin-top: 60px;
@@ -147,10 +147,11 @@ nav ul li a{
 .food_title h2{
     font-weight: bolder;
     margin-bottom: 12px;
+    font-size: xx-large;
 }
 .food_title h5{
-    font-weight: bolder;
-    font-size: 800;
+    font-weight: xx-bolder;
+    font-size: 1200;
     word-spacing: 1px;
 }
 .btn{
