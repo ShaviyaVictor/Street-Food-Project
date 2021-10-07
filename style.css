@@ -30,6 +30,7 @@ i{
 .img_container1 img:nth-child(1){
     margin-right: 150px;
     width: 80px;
+    transform: translate(-120px , 100px);
 }
 .img_container1 img:nth-child(2){
     margin-right: 260px;
@@ -70,27 +71,38 @@ i{
 .dotted > img:first-child{
     transform: rotate(0deg) translateY(-30px);
     margin-left: 30px;
+    width: 90px;
 }
 
 .dotted > img:nth-child(2) {
     transform: rotate(45deg) translateY(-115px);
+    width: 90px;
+    transform: translate(40%, -80%);
 }
 .dotted > img:nth-child(3){
     transform: rotate(90deg) translateY(-105px);
+    width: 90px;
+    transform: translate(90%, -55%);
 }
 
 .dotted > img:nth-child(4){
-    transform: rotate(-45deg) translateY(-60px);
+    transform: rotate(-45deg) translateY(-2px);
+    width: 120px;
+    transform: translate(50%, 50%);
 }
 
 .dotted > img:nth-child(5){
-    transform: rotate(-90deg) translateY(50px);
+    transform: rotate(-90deg) translateY(200px);
     margin-left: 240px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
+    width: 90px;
+    transform: translate(240%, 80%);
 }
 .img6{
-    margin-top: -10px;
-    margin-left: 65%;
+    margin-top: -400px;
+    margin-left: 58%;
+    width: 180px;
+    transform: translate(-40%, -40%);
     
 }
 nav{
